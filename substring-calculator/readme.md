@@ -3,7 +3,7 @@ This is a solution for a [HackerHank](https://www.hackerhank.com) challenge that
 
 You can see this code running on https://repl.it/@vitoralbano/substring-calculator
 
-# Challenge statement
+# Challenge Statement
 
 Given a string, `s`, a substring is defined as a non-empty string that can be obtained by one of the following means:
 * Remove zero or more characters from the left side of `s`.
