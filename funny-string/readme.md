@@ -11,7 +11,7 @@ Determine whether a give string is funny. If it is, return Funny, otherwise retu
 For example, given the string `s = lmnop`, the ordinal values of the charcters are `[108, 109, 110, 111, 112]`. `s`<sub>reversed</sub>`= ponml` and the ordinals are `[112, 111, 110, 109, 108]`. The absolute differences of the adjacent elements for both strings are `[1, 1, 1, 1]`, so the answer is `Funny`.
 
 ## Function description
-Complete the `funnyString` function in the editor below. For each test case, it should return a string, either `Funny` or `Not Funny`.
+For each test case, it should return a string, either `Funny` or `Not Funny`.
 
 `funnyString` has the following parameter(s):
 * `s`: a string to test
