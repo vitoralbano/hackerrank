@@ -1,7 +1,7 @@
 # Substring Calculator
 This is a solution for a [HackerHank](https://www.hackerhank.com) challenge that asked to found out the number of substrings in a given `string`. This approuch was developed as first solution, that means that it can be refactored and the use of recursivity could be a good idea. 
 
-You can see this code running on https://repl.it/@vitoralbano/substring-calculator
+You can see this code running on http://bit.ly/p-substr-calc.
 
 # Challenge Statement
 
