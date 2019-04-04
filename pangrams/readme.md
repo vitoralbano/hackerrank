@@ -1,5 +1,5 @@
 # Pangrams
-Solution proposal for [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) challenge from [Hacker Hank](https://www.hackerrank.com/), and, as habitual, the Repl is available at https://repl.it/@vitoralbano/funny-string.
+Solution proposal for [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) challenge from [Hacker Hank](https://www.hackerrank.com/), and, as habitual, the Repl is available at http://bit.ly/p-pangrams.
 
 # Function description
 It should return the string `pangram` if the input string is a pangram. Otherwise, it should return `not pangram`.
